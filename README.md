@@ -1,2 +1,2 @@
 # Simple Gitlab Event Notification using Deno
-https://deno.land/
+use this https://deno.land/ to run
